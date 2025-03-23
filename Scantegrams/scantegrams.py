@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Memuat data dari file Excel
-file_path = "Data Grafika Komputer.xlsx" 
+file_path = "Scantegrams/Data Grafika Komputer.xlsx" 
 df = pd.read_excel(file_path)
 
 # Menentukan kategori CPMK
