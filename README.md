@@ -8,6 +8,6 @@ Graph design with python programming language
 * Ezzy Auriel Syach Lie
 
 # How to execute the program
-* Select one of the folders from the chart
+* Select one of the folders of the desired graphic
 * And select the file that ends in .py
 * And run 🚀
